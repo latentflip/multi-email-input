@@ -29,6 +29,7 @@ let Email = React.createClass({
       <span className='email-multi-input__item'>
         <input className='email-multi-input__item__input' {...this.props}/>
         <button
+          type='button'
           className='email-multi-input__item__delete'
           onClick={this.onDelete}>✖</button>
       </span>
