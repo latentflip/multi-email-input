@@ -160,6 +160,7 @@ export default React.createClass({
           size={Math.max(this.state.next.length + 3, 20)}
           ref='newInput'
           placeholder='you@reaweso.me'
+          id={this.props.id}
           />
       </div>
     );
