@@ -2,7 +2,7 @@
   "name": "@latentflip/multi-email-input",
   "version": "1.2.0",
   "description": "",
-  "main": "email-input-component.js",
+  "main": "multi-email-input.js",
   "scripts": {
     "start": "webpack-dev-server"
   },
