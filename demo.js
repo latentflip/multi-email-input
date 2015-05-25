@@ -1,4 +1,4 @@
-import EmailInput from './email-input-component.js';
+import EmailInput from './multi-email-input.js';
 import React from 'react';
 
 let Demo = React.createClass({
